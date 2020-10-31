@@ -349,3 +349,8 @@ Note: This one is similar to an example talked about in the Stanford Machine Lea
 - [ ] supervised machine learning
 - [ ] unsupervised machine learning
 - [ ] reinforcement learning
+
+#### Q53. (Mostly) whenever we see kernel visualizations online (or some other reference) we are actually seeing:
+- [x] What kernels extract
+- [] Feature Maps
+- [] How kernels Look
